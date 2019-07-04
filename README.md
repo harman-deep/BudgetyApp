@@ -1,2 +1,0 @@
-# BudgetyApp
-# budgetyApp
